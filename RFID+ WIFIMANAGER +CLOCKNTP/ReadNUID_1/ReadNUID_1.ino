@@ -8,7 +8,7 @@
 #include <HTTPClient.h>
 
 
-const char* server = "http://192.168.1.101:8080/data"; // BACKEND
+const char* server = "http://192.168.100.4:8080/data"; // BACKEND
 
 //---------------RC522 PIN------------------------------------------
 #define SS_PIN 5
